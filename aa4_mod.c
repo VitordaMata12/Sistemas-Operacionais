@@ -14,7 +14,7 @@ void loop_infinito(){
  long int cont = 0, r = 1;
   
   while(cont < 600000000){
-     r += 1;
+     r += (1045550234 + 10000000000) * 9988;
      cont +=1;
   }
 };
