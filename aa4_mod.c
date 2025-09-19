@@ -16,7 +16,6 @@ void loop_infinito(){
   while(cont < 600000000){
      r += 1;
      cont +=1;
-     printf("%ld", r);
   }
 };
 
